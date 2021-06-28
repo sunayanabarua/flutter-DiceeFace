@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03dfeedf-3e16-4700-b405-5387c5ec61cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uNhFGCjnjYG6itM33I1Dpo9SW4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03dfeedf-3e16-4700-b405-5387c5ec61cf" name="Default Changelist" comment="" />
+      <created>1624511849937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624511849937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="66" key="GridCell.Tab.0.bottom" timestamp="1624864137942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="66" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624864137942" />
+    <state width="1323" height="66" key="GridCell.Tab.0.center" timestamp="1624864137942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="66" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624864137942" />
+    <state width="1323" height="66" key="GridCell.Tab.0.left" timestamp="1624864137941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="66" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624864137941" />
+    <state width="1323" height="66" key="GridCell.Tab.0.right" timestamp="1624864137942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="66" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624864137942" />
+    <state x="235" y="9" key="SettingsEditor" timestamp="1624862216017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="235" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1624862216017" />
+    <state x="258" y="47" key="new project wizard" timestamp="1624862080752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="47" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1624862080752" />
+    <state x="397" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1624861202119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1624861202119" />
+  </component>
+</project>
